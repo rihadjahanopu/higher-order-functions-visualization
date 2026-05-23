@@ -14,6 +14,9 @@ An immersive, interactive, and high-fidelity educational dashboard designed to d
 
 ---
 
+## Live Link
+[Higher-Order Functions Visualizer](https://higher-order-functions-visualizatio.vercel.app)
+
 ## 📋 Table of Contents
 1. [📖 What is a Higher-Order Function?](#-what-is-a-higher-order-function)
 2. [✨ Key Features & UX Design](#-key-features--ux-design)
